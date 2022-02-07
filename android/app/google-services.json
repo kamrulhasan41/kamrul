@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "559073654157",
+    "project_id": "myapp-c7c9b",
+    "storage_bucket": "myapp-c7c9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559073654157:android:4417b274b69673dcee39c4",
+        "android_client_info": {
+          "package_name": "com.example.kamrul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559073654157-7e153lhoqqrotl7173mrurlm9mecbn94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kamrul",
+            "certificate_hash": "c570e3e76aad70eceaa3c679991413c061df431e"
+          }
+        },
+        {
+          "client_id": "559073654157-turkp6cr8bqrgq74b3ik77m670l9lbju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhHU_cVGW1ZaYmQonp7mao_y1WmP0lI1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559073654157-turkp6cr8bqrgq74b3ik77m670l9lbju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
